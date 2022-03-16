@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ColorSwitcher</string>
+    <string name="login">Login</string>
+    <string name="location">Location</string>
+    <string name="get_data">Get Data</string>
+</resources>
